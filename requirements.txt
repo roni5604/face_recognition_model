@@ -1,0 +1,7 @@
+numpy
+opencv-python
+PySide6
+scikit-learn
+kaggle
+tensorflow-macos
+tensorflow-metal
